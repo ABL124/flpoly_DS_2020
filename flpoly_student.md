@@ -1,23 +1,23 @@
-## First Name Last Name
+## Alec Lewis
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Operations Research
 
-- Course 3
+- Reverse Logistics
 
-- Course 4
+- Statistical Learning
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Networking
 
-- Thing 2
+- Gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Space
