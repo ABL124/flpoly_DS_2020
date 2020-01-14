@@ -20,4 +20,4 @@ I am _passionate about_:
 
 - Gaming
 
-- Space
+- Anything Space Related
